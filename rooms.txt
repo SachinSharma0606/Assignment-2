@@ -1,0 +1,8 @@
+101 Single 1
+102 Single 1
+103 Single 1
+104 Single 1
+201 Double 1
+202 Double 1
+301 Suite 0
+302 Suite 1
